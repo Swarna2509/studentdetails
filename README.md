@@ -5,11 +5,10 @@
 - Open with Postman / Command Shell
 - Run Command:  
 ```console 
-newman run Booking.postman_collection.json -e Booking-en.postman_environment.json 
-```
+newman run Studentsdetails.postman_collection.json -e Studentsdetails.postman_environment.json
 - Run Command for Report: 
 ```console 
-newman run Booking.postman_collection.json -e Booking-en.postman_environment.json -r cli,htmlextra
+newman run Studentsdetails.postman_collection.json -e Studentsdetails.postman_environment.json -r cli,htmlextra
 ```
 
 ## ***Technology used***
@@ -76,5 +75,6 @@ npm install -g newman-reporter-htmlextra
 	
 ## ***Newman Report Summary***
 file:///G:/SQA/studentdetails/newman/Studentsdetails-2023-05-13-19-51-42-479-0.html
+
 
 file:///G:/SQA/studentdetails/newman/newman-run-report-2023-05-13-19-51-01-431-0.html
