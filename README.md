@@ -73,3 +73,7 @@ npm install -g newman-reporter-htmlextra
 	6. > Country
 	7. > Mobile
 	8. > Current Address
+	
+## ***Newman Report Summary***
+file:///G:/SQA/studentdetails/newman/Studentsdetails-2023-05-13-19-51-42-479-0.html
+file:///G:/SQA/studentdetails/newman/newman-run-report-2023-05-13-19-51-01-431-0.html
