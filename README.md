@@ -78,7 +78,5 @@ npm install -g newman-reporter-htmlextra
 	8. > Current Address
 	
 ## ***Newman Report Summary***
-file:///G:/SQA/studentdetails/newman/Studentsdetails-2023-05-13-19-51-42-479-0.html
-
-
-file:///G:/SQA/studentdetails/newman/newman-run-report-2023-05-13-19-51-01-431-0.html
+![Screenshot (271)](https://github.com/Swarna2509/studentdetails/assets/72212832/6b660a89-acc9-4e97-8407-5cb269a3d1a6)
+![Screenshot (272)](https://github.com/Swarna2509/studentdetails/assets/72212832/2f0f71ad-fb0a-4272-b4e9-09a43929d731)
